@@ -1,1 +1,1 @@
-commands to execute basic commands
+commands to execute basic commands of git
